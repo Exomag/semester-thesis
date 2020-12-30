@@ -15,9 +15,9 @@ In order to reproduce the simulations and plots of a specific chapter, navigate 
 Please cite the original thesis when using any part of this code. BibTeX citation data:
 ```
 @misc{Lefkopoulos2018,
-	author	  	 = "V. Lefkopoulos and M. Kamgarpour",
-	title	  	 = "Chance-Constrained Programming for Autonomous Vehicles in Uncertain Environments",
-	howpublished     = "ETH Zurich", 
-	year	  	 = "2018",
+    author        = "V. Lefkopoulos and M. Kamgarpour",
+    title         = "Chance-Constrained Programming for Autonomous Vehicles in Uncertain Environments",
+    howpublished  = "ETH Zurich", 
+    year          = "2018",
 }
 ```
